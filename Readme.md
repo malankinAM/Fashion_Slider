@@ -11,4 +11,4 @@
 
 
 ## Click ('')
- <img src="./screencapture-127-0-0-1-5500-index-html-2024-08-30-14_10_50.png" title="css"  width="350px" height="700px"/>
+ <img src="./screencapture-127-0-0-1-5500-index-html-2024-08-30-14_10_50.png" title="css"  width="850px" height="500px"/>
